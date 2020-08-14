@@ -1,4 +1,6 @@
-# dot-prop [![Build Status](https://travis-ci.org/sindresorhus/dot-prop.svg?branch=master)](https://travis-ci.org/sindresorhus/dot-prop)
+# dot-prop-legacy [![Build Status](https://travis-ci.org/ruyadorno/dot-prop.svg?branch=legacy-v4)](https://travis-ci.org/ruyadorno/dot-prop)
+
+> :warning: This is a fork of the original [dot-prop](https://github.com/sindresorhus/dot-prop) project with the only goal of keeping a legacy release line to make life of developers still supporting node@6 a little bit easier.
 
 > Get, set, or delete a property from a nested object using a dot path
 
@@ -6,7 +8,7 @@
 ## Install
 
 ```
-$ npm install --save dot-prop
+$ npm install --save dot-prop@npm:dot-prop-legacy
 ```
 
 
