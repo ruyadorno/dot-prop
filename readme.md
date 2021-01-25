@@ -1,3 +1,5 @@
+:warning: This fork is no longer relevant or necessary since the authors of the original `dot-prop` module are maintaining an official legacy release line for node@6 - if you have this module in your dependencies it's very important for you to migrate back to **dot-prop@4.2.1** https://www.npmjs.com/package/dot-prop/v/4.2.1
+
 # dot-prop-legacy [![Build Status](https://travis-ci.org/ruyadorno/dot-prop.svg?branch=legacy-v4)](https://travis-ci.org/ruyadorno/dot-prop)
 
 > :warning: This is a fork of the original [dot-prop](https://github.com/sindresorhus/dot-prop) project with the only goal of keeping a legacy release line to make life of developers still supporting node@6 a little bit easier.
